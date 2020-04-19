@@ -1,4 +1,5 @@
 # WebBi | Geliştirici Ekibi
+[ WebBi 16 Mart 2020 tarihinde kuruldu alan adı 15 Nisan'da alındı ]
 
 WebBi ekibine ait bütün web sayfa, mail bilgileri, web site version bilgileri burada yer alacaktır
 
@@ -7,3 +8,15 @@ WebBi ekibine ait bütün web sayfa, mail bilgileri, web site version bilgileri 
 Versiondan başlyacaktır geçmiş versionlama işlemleri ve bilgileri Uğur AVCI'da yer almaktadadır.
 ## TechnoHaber V1.0.1
 Versiondan başlayacaktır bu web sayfası fazla güncellemeye gerek yoktur sadece anlık haberler verilmesi gerekmektedir.
+# Mail hesaplarımız
+#### ✉️ webbi@webbi.site  WebBi'nin mail adresi
+
+#### ✉️ technohaber@webbi.site  technohaber'in mail adresi
+
+#### ✉️ info@webbi.site  genel mail adresi
+
+#### ✉️ uguravci@webbi.site  Uğur AVCI'nın mail adresi
+
+#### ✉️ ahmet@webbi.site  Ahmet SARI'nın mail adresi
+
+#### ✉️ onur@webbi.site  Onur Berkant GİRGEÇ'in mail adresi
