@@ -1,5 +1,5 @@
 # WebBi | Geliştirici Ekibi
-[ WebBi 16 Mart 2020 tarihinde kuruldu alan adı 15 Nisan'da alındı ]
+WebBi 16 Mart 2020 tarihinde kuruldu alan adı 15 Nisan'da alındı
 
 WebBi ekibine ait bütün web sayfa, mail bilgileri, web site version bilgileri burada yer alacaktır
 
