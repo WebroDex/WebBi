@@ -25,3 +25,5 @@ Versiondan başlayacaktır bu web sayfası fazla güncellemeye gerek yoktur sade
 📡 WebBi YouTube, Facebook, Twitter hesapları üzerinde canlı yayın yapmayı planlıyoruz
 
 📝 Bu README.md klasörünü değiştirmeyiniz!! değiştirmek için Uğur AVCI ile iletişime geçiniz
+
+🧱
