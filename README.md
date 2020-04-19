@@ -20,3 +20,6 @@ Versiondan başlayacaktır bu web sayfası fazla güncellemeye gerek yoktur sade
 #### ✉️ ahmet@webbi.site  Ahmet SARI'nın mail adresi
 
 #### ✉️ onur@webbi.site  Onur Berkant GİRGEÇ'in mail adresi
+
+# Canlı yayın
+📡 WebBi YouTube, Facebook, Twitter hesapları üzerinde canlı yayın yapmayı planlıyoruz
