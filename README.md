@@ -1,5 +1,9 @@
 # WebBi | Geliştirici Ekibi
 
-WebBi'ye ait bütün web sayfa bilgileri burada yer alacaktır
+WebBi ekibine ait bütün web sayfa, mail bilgileri, web site version bilgileri burada yer alacaktır
 
-ör: Version bilgileri bütün web siteleri ve dosyaları applation ve başka yazılım var ise barındırma işlemi burada gerçekleşecektir
+📅️ 10 Mayıs 2020 Tarihinde GitHub kullanılarak prejeler burada yedeklenecek ve versionlama işlemi gerçekleşecek
+## WebBi V1.1.0
+Versiondan başlyacaktır geçmiş versionlama işlemleri ve bilgileri Uğur AVCI'da yer almaktadadır.
+## TechnoHaber V1.0.1
+Versiondan başlayacaktır bu web sayfası fazla güncellemeye gerek yoktur sadece anlık haberler verilmesi gerekmektedir.
