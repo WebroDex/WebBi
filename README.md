@@ -4,11 +4,11 @@ WebBi 16 Mart 2020 tarihinde kuruldu alan adı 15 Nisan'da alındı
 WebBi ekibine ait bütün web sayfa, mail bilgileri, web site version bilgileri burada yer alacaktır
 
 📅️ 10 Mayıs 2020 Tarihinde GitHub kullanılarak prejeler burada yedeklenecek ve versionlama işlemi gerçekleşecek
-## WebBi V1.1.0
+### WebBi V1.1.0
 Versiondan başlyacaktır geçmiş versionlama işlemleri ve bilgileri Uğur AVCI'da yer almaktadadır.
-## TechnoHaber V1.0.1
+### TechnoHaber V1.0.1
 Versiondan başlayacaktır bu web sayfası fazla güncellemeye gerek yoktur sadece anlık haberler verilmesi gerekmektedir.
-# Mail hesaplarımız
+## Mail hesaplarımız
 #### ✉️ webbi@webbi.site  WebBi'nin mail adresi
 
 #### ✉️ technohaber@webbi.site  technohaber'in mail adresi
