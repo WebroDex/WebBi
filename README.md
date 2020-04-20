@@ -5,6 +5,7 @@ WebBi 16 Mart 2020 tarihinde kuruldu
 web site dosyaları bulunmaktadır
  ### Yapılacaklar
  Bi web sayfasını düzenle dosyası github da mevcut bu siteyi bi.webbi.site alan adına yerleştir
+ ####
 
 WebBi ekibine ait bütün web sayfa, mail bilgileri, web site version bilgileri burada yer alacaktır
 
