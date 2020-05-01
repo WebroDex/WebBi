@@ -35,4 +35,5 @@ Versiondan başlayacaktır bu web sayfası fazla güncellemeye gerek yoktur sade
 📝 Bu README.md klasörünü değiştirmeyiniz!! değiştirmek için Uğur AVCI ile iletişime geçiniz
 ## WebBi anasayfa renkler
 
-〰️ Turuncu #ff6600
+〰️ Turuncu #ff6000
+〰️ Mavi    #386890
