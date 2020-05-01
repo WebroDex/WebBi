@@ -36,4 +36,9 @@ Versiondan başlayacaktır bu web sayfası fazla güncellemeye gerek yoktur sade
 ## WebBi anasayfa renkler
 
 〰️ Turuncu #ff6000
+
 〰️ Mavi    #386890
+
+〰️ Kırmızı #9c0000
+
+〰️ 
