@@ -42,3 +42,21 @@ Versiondan başlayacaktır bu web sayfası fazla güncellemeye gerek yoktur sade
 〰️ Kırmızı #9c0000
 
 〰️ 
+
+
+Google Etiket Yöneticisi'ni Yükleyin
+Aşağıdaki kodu kopyalayın ve web sitenizdeki tüm sayfalara yapıştırın.
+Bu kodu sayfanın <head> bölümünde mümkün olan en üst konuma yapıştırın:
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MQJ6HNJ');</script>
+<!-- End Google Tag Manager -->
+Ayrıca, bu kodu baştaki <body> etiketinin hemen sonrasına yapıştırın:
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MQJ6HNJ"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+Google Etiket Yöneticisi snippet'ini yükleme hakkında daha fazla bilgi için Hızlı Başlangıç Kılavuzu'na göz atın.
