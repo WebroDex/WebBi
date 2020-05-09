@@ -1,36 +1,11 @@
-/*
-* Box Theme
-* Created by : Ahmed Eissa
-* website : www.ahmedessa.net
-* behance : https://www.behance.net/3essa
+/* 
+* Kullandığımız Araçlar
 */
-
-
-/* Table of Content
-==================================================
-	- Google fonts & font family -
-	- General -
-    - typography -
-    - Preloader -
-	- Header -
-    - box intro section -
-    - Portfoilo section -
-    - Footer -
-    - About page -
-    - Services page -
-    - contact page -
-    - Portfolio single page -
-    - Responsive media queries -
-*/
-
-
-/* Google fonts & font family
-==================================================*/
 
 @import url(https://fonts.googleapis.com/css?family=Poppins:400,500,600,700);
-
-/* General
-==================================================*/
+p {
+    font-family: 'Poppins', sans-serif;
+}
 
 html,
 body {
@@ -95,7 +70,7 @@ h3 {
 }
 
 h5 {
-    color: #ffbf00;
+    color: #407492;
 }
 
 
@@ -239,7 +214,7 @@ h5 {
 }
 
 .box-primary-nav-trigger .box-menu-text {
-    color: #393939;
+    color: #2a67a0;
     text-transform: uppercase;
     font-weight: 700;
     display: none;
@@ -336,7 +311,7 @@ h5 {
     top: 0;
     height: 100%;
     width: 100%;
-    background: rgba(0, 0, 0, 0.96);
+    background: #2b2f31e0;
     z-index: 2;
     text-align: center;
     padding: 50px 0;
@@ -387,9 +362,8 @@ h5 {
 
 .box-primary-nav .box-label {
     color: #ffbf00;
-    text-transform: uppercase;
     font-weight: 700;
-    font-size: 17px;
+    font-size: 20px;
     margin: 2.4em 0 .8em;
 }
 
@@ -461,7 +435,7 @@ b i:last-child {
     left: 50%;
     margin-left: -12px;
     border-radius: 15px;
-    border: 2px solid #888;
+    border: 2px solid #505050;
     -webkit-animation: intro 1s;
     animation: intro 1s;
 }
@@ -472,7 +446,7 @@ b i:last-child {
     height: 3px;
     margin: 6px auto;
     border-radius: 4px;
-    background: #888;
+    background: #2d6e96;
     -webkit-animation: finger 2s infinite;
     animation: finger 2s infinite;
 }
@@ -827,11 +801,17 @@ b i:last-child {
 footer {
     padding: 30px 0;
     text-align: center;
-    background: #0e1216
+    background: #393e41
 }
 
 .copyright {
-    color: #bdbdbd;
+    text-align: center;
+    color: #ffffff;
+    margin-bottom: 0;
+}
+
+.copyright:hover {
+    color: #82a0b8;
     margin-bottom: 0;
 }
 
@@ -890,10 +870,10 @@ footer img {
 ==================================================*/
 
 .top-bar {
-    color: #333;
+    color: #000000;
     padding: 150px 0 150px;
-    background: -webkit-linear-gradient( rgba(32, 138, 32, 0.8), rgba(255, 255, 255, .8)), url(../img/01.jpg);
-    background: linear-gradient( rgba(126, 75, 75, 0.8), rgba(105, 22, 22, 0.8)), url(../img/01.jpg);
+    background: -webkit-linear-gradient( #208a20cc, #ffffffcc), url(../img/01.jpg);
+    background: linear-gradient( #4a7385e5, #ffffff00);
     background-size: cover;
     background-attachment: fixed;
     background-position: center center;
@@ -904,7 +884,7 @@ footer img {
     font-size: 60px;
     text-transform: uppercase;
     font-weight: 700;
-    color: #999;
+    color: #202020;
     line-height: 50px;
 }
 
@@ -912,11 +892,11 @@ footer img {
     font-size: 15px;
     text-transform: uppercase;
     font-weight: 500;
-    color: #777;
+    color: #404040;
 }
 
 .top-bar p a {
-    color: #777;
+    color: #505050;
 }
 
 .top-bar p a:hover,
@@ -938,13 +918,55 @@ footer img {
 
 .social-ul li a {
     font-size: 25px;
-    color: #555;
+    color: #000000;
     -webkit-transition: all .3s;
     transition: all .3s;
 }
 
+.link a {
+    color: #ffffff;
+    font-size: 13px;
+}
+
+
+/*.link a:hover {
+    color: #415e8a;
+    font-size: 16px;
+    font-weight: bold;
+}*/
+
+.facebook:hover {
+    color: #415e8a;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.instagram:hover {
+    color: #802f94;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.twitter:hover {
+    color: #396d85;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.youtube:hover {
+    color: #ca3b3b;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.github:hover {
+    color: #000000;
+    font-size: 16px;
+    font-weight: bold;
+}
+
 .social-ul li a:hover {
-    color: #888;
+    color: #3b3b3b;
 }
 
 
@@ -1105,6 +1127,10 @@ textarea:focus {
 .cat-ul li i {
     margin-right: 10px;
     color: #ffbf00;
+}
+
+.yazi {
+    font-family: 'Sniglet', cursive;
 }
 
 
