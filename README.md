@@ -1,6 +1,26 @@
 # WebBi | Geliştirici Ekibi
 WebBi 16 Mart 2020 tarihinde kuruldu
 
+25 Ağustos 2020 Tarihinde;
+- güncelleme.webbi.site
+
+1 Eylül 2020 Tarihinde;
+- webbi.site
+- bi.webbi.site
+- webbitv.site
+- analiz.webbi.site
+- analiz.webbitv.site
+
+Web siteleri güncellenecektir 
+
+TechoHaber web sitesi iptal edilecek veya bir süre daha kullanılmayacaktır
+
+- bi web sitesi webbi ye ait haberleri yayınlayacak
+- webbi TV webbi YouTube kanalına yüklenmeden önce webbi TV de bulunacaktır
+- analiz siteleri webbi ve webbitv ye ait web site bilgileri,görüntülenme ve daha fazla bilgi sadece ekip ile paylaşılacak 
+- güncelleme sitesi webbi web sitelerine ait güncelleme sayaç ve haberleri içerecek
+
+
 [WebBi](http://webbi.site/) ve [TechnoHaber](http://technohaber.webbi.site/)
 web site dosyaları bulunmaktadır
  ### Yapılacaklar
@@ -30,7 +50,7 @@ Versiondan başlayacaktır bu web sayfası fazla güncellemeye gerek yoktur sade
 #### ✉️ onur@webbi.site  Onur Berkant GİRGEÇ'in mail adresi
 
 # Canlı yayın
-📡 WebBi YouTube, Facebook, Twitter hesapları üzerinde canlı yayın yapmayı planlıyoruz
+📡 WebBi TV, YouTube, Facebook, Twitter hesapları üzerinde canlı yayın yapmayı planlıyoruz
 
 📝 Bu README.md klasörünü değiştirmeyiniz!! değiştirmek için Uğur AVCI ile iletişime geçiniz
 ## WebBi anasayfa renkler
@@ -42,6 +62,7 @@ Versiondan başlayacaktır bu web sayfası fazla güncellemeye gerek yoktur sade
 〰️ Kırmızı #9c0000
 
 〰️ 
+
 
 
 Google Etiket Yöneticisi'ni Yükleyin
@@ -60,3 +81,4 @@ Ayrıca, bu kodu baştaki <body> etiketinin hemen sonrasına yapıştırın:
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 Google Etiket Yöneticisi snippet'ini yükleme hakkında daha fazla bilgi için Hızlı Başlangıç Kılavuzu'na göz atın.
+
